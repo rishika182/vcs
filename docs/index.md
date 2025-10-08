@@ -1,1 +1,1 @@
- [go to setup.md] (setup.md)
+ [go to setup](setup.md)
